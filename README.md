@@ -54,15 +54,15 @@ Unified, Real-Time Object Detection](https://arxiv.org/pdf/1506.02640.pdf), [YOL
  ## Course 5. [Sequence Models](https://www.youtube.com/watch?v=_i3aqgKVNQI&list=PLkDaE6sCZn6F6wUI9tvS_Gw1vaFAx6rd6&index=1)
  1. Week1 - [Recurrent Neural Networks](https://github.com/savnani5/Deep-Learning-Specialization-Coursera/tree/main/Course5-Sequence%20Models/Week1)
     
-    Discover recurrent neural networks, a type of model that performs extremely well on temporal data, and several of its variants, including LSTMs, GRUs and Bidirectional  RNNs,
+    Discover recurrent neural networks, a type of model that performs extremely well on temporal data, and several of its variants, including LSTMs, GRUs and Bidirectional         RNNs,
     
  2. Week2 - [Natural Language Processing & Word Embeddings](https://github.com/savnani5/Deep-Learning-Specialization-Coursera/tree/main/Course5-Sequence%20Models/Week2)
  
- Natural language processing with deep learning is a powerful combination. Using word vector representations and embedding layers, train recurrent neural networks with outstanding performance across a wide variety of applications, including sentiment analysis, named entity recognition and neural machine translation.
+   Natural language processing with deep learning is a powerful combination. Using word vector representations and embedding layers, train recurrent neural networks with          outstanding performance across a wide variety of applications, including sentiment analysis, named entity recognition and neural machine translation.
  
  3. Week3 - [Sequence models & Attention mechanism](https://github.com/savnani5/Deep-Learning-Specialization-Coursera/tree/main/Course5-Sequence%20Models/Week3)
  
- Augment your sequence models using an attention mechanism, an algorithm that helps your model decide where to focus its attention given a sequence of inputs. Then, explore speech recognition and how to deal with audio data.
+    Augment your sequence models using an attention mechanism, an algorithm that helps your model decide where to focus its attention given a sequence of inputs. Then, explore     speech recognition and how to deal with audio data.
  
  4. Week4 - [Transformer Network](https://github.com/savnani5/Deep-Learning-Specialization-Coursera/tree/main/Course5-Sequence%20Models/Week4)
  
