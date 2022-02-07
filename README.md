@@ -38,7 +38,7 @@ Instructor: [Andrew Ng, DeepLearning.ai]()
    Develop your deep learning toolbox by adding more advanced optimizations, random minibatching, and learning rate decay scheduling to speed up your models
    
    
-3. Week3 - [Hyperparameter tuning, Batch Normalization and Programming Frameworks](hhttps://github.com/savnani5/Deep-Learning-Specialization-Coursera/tree/main/Course2-Improving%20Deep%20Neural%20Networks%20Hyperparameter%20tuning%2C%20Regularization%20and%20Optimization/Week3)
+3. Week3 - [Hyperparameter tuning, Batch Normalization and Programming Frameworks](https://github.com/savnani5/Deep-Learning-Specialization-Coursera/tree/main/Course2-Improving%20Deep%20Neural%20Networks%20Hyperparameter%20tuning%2C%20Regularization%20and%20Optimization/Week3)
   
    Explore TensorFlow, a deep learning framework that allows you to build neural networks quickly and easily, then train a neural network on a TensorFlow dataset.
    
